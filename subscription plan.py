@@ -2,7 +2,7 @@
 
 
 month=0
-fees=1000
+fees=5000
 
 umonth=int(input("Enter month of subscription: "))
 
