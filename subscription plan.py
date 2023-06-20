@@ -2,12 +2,12 @@
 
 
 month=0
-fees=1000
+fees=5000
 
-umonth=int(input("Enter month of subscription: "))
+user_month=int(input("Enter month of subscription: "))
 
-if(month != umonth):
-  print("your fees amount:  ",umonth*fees)
+if(month != user_month):
+  print("your fees amount:  ",user_month*fees)
 else:
    print("plzz select the right month")
 
