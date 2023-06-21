@@ -1,7 +1,7 @@
 
 
 name = input("write your name:")
-print("HELLO",name,"write your number\n")
+print("Hello,",name,"write your number\n")
 
 month=0
 fees=1000
