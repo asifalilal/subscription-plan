@@ -1,5 +1,7 @@
 
 
+name = input("write your name:")
+print("Hello,",name,"write your number\n")
 
 month=0
 fees=1000
